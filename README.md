@@ -30,3 +30,6 @@ The data was sourced from Kaggle
 **Business Problem Solved**
 
 The project addressed the need for a clear, centralized, and real-time understanding of sales performance. By consolidating raw transactional data, the dashboard allows stakeholders (like sales managers) to quickly identify which products and retailers drive the most profit, enabling data-driven decisions on inventory, marketing spend allocation, and partnership focus.
+
+**Snapshot of the dashboard**
+https://github.com/deepanshumandwal/Adidas-Sales-Data-Analysis/blob/main/My%20Dashboard's%20Thumbnail.jpeg
